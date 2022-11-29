@@ -1,16 +1,17 @@
+## Flávia Janine Rosante Béo
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/flaviabeo/)
+[![ResearchGate Badge](https://img.shields.io/static/v1?label=&logo=ResearchGate&message=ResearchGate&color=grey)](https://www.researchgate.net/profile/Flavia_Beo2)
+
 ### Hi there 👋
 
-<!--
-**flaviabeo/flaviabeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer who loves to research and know about new technologies 
 
-Here are some ideas to get you started:
+- 👩‍🎓 Graduated in Computer Engineering 
+- 👩‍🎓 Master in Computer Science
+- 👩‍💻 IBM Research Engineer
+- 👩‍💻 Assistant Professor at IMT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Click the link to see my latest stuff https://linktr.ee/flaviajanine
+
